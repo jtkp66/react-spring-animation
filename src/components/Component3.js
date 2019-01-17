@@ -5,15 +5,15 @@ export default function Component3() {
         <div style={c3Style}>
             <h1>Component3</h1>
             <p>lorem ipsum dolor, sit amet
-          wooogie boogie on the piano
-          and some other stuff.
-        </p>
+               wooogie boogie on the piano
+               and some other stuff.
+            </p>
         </div>
     )
 }
 
 const c3Style = {
-    background: 'steelblue',
+    background: 'green',
     color: 'white',
     padding: '1.5rem 1.5rem 5rem 1.5rem'
 };
